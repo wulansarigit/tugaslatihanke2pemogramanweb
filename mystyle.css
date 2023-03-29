@@ -1,0 +1,24 @@
+li {
+    color: purple;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+#submit {
+    background-color: green;
+}
+
+#flavors span {
+    color: red;
+  }
+
+.size {
+    font-size: 20px;
+color: magenta;
+ }
+
+ h2.bright {
+    color: cyan;
+}
